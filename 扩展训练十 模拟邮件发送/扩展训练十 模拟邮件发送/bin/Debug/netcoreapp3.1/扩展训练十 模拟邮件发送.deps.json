@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "扩展训练十 模拟邮件发送/1.0.0": {
+        "runtime": {
+          "扩展训练十 模拟邮件发送.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "扩展训练十 模拟邮件发送/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
